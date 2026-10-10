@@ -6,6 +6,7 @@ using Content.Shared.Humanoid.Prototypes;
 using Content.Shared.Speech;
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
+using Robust.Shared.Serialization;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared._Misfits.Doomarm;
